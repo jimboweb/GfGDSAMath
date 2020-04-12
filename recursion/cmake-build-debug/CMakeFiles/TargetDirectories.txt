@@ -1,0 +1,3 @@
+/Users/jimstewart/Git/GfGDSAMath/recursion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jimstewart/Git/GfGDSAMath/recursion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jimstewart/Git/GfGDSAMath/recursion/cmake-build-debug/CMakeFiles/recursion.dir
